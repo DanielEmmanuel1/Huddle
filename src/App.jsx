@@ -3,6 +3,8 @@ import HeroSection from "./HeroSection";
 import AboutUs from "./About";
 import Drive from "./Drive";
 import HundleFeatures from "./Features";
+import ProjectTimeline from "./ProjectTimeline";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
     <AboutUs/>
     <Drive />
     <HundleFeatures />
+    <ProjectTimeline/>
+    <Footer />
     </>
   );
 }
