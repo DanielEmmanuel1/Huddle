@@ -33,14 +33,13 @@ const HeroSection = () => {
         </div>
 
         <div className="relative">
-          <input
-            className="px-36 py-4 rounded-lg relative"
+          <input placeholder="Enter your email address"
+            className="px-3 w-2/3 py-4 rounded-lg relative outline-none"
             type="email"
             name=""
             id=""
           />
-          <p className="text-sm text-gray-500 absolute top-4 left-3">Enter your email address</p>
-          <button className="bg-[#5C5CE9] text-white rounded-md px-3 py-2 text-sm absolute left-80 top-[0.5rem]">
+          <button className="bg-[#5C5CE9] text-white rounded-md px-3 py-2 text-sm absolute left-1/2 top-[0.65rem]">
             Join Waitlist
           </button>
         </div>
