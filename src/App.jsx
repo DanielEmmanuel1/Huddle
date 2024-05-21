@@ -9,7 +9,7 @@ import Footer from "./Footer";
 function App() {
   return (
     <>
-    <div className="py-[24px] bg-cover bg-center h-screen flex flex-col" style={{ backgroundImage: `url('./images/background.svg')` }}>
+    <div className="bg-cover bg-center h-screen flex flex-col" style={{ backgroundImage: `url('./images/background.svg')` }}>
       <Navbar />
       <HeroSection/>
     </div>

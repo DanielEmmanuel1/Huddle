@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <div className="border-b border-b-gray-400">
-      <nav className="flex justify-between items-center py-[24px] px-[120px] h-[100px]">
+      <nav className="flex justify-between items-center py-3 px-[120px]">
         <img src="./images/Logo.svg" alt="HuddleLogo" />
         <div className="flex gap-[2.5rem]">
           <span className="cursor-pointer">About Us</span>
