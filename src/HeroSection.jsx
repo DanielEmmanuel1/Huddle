@@ -46,7 +46,7 @@ const HeroSection = () => {
       </div>
 
       <div
-        className="h-[34.7rem] w-[40rem] mt-[12rem] bg-auto bg-left-top bg-clip-content"
+        className="h-[37.85rem] w-[40rem] mt-[12rem] bg-auto bg-left-top bg-clip-content"
         style={{ backgroundImage: `url('./images/animate.svg')` }}
       ></div>
     </div>
